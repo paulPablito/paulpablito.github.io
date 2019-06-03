@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://paulpablito.github.io/categories/</loc>
+    <loc>http://paulpablito.github.io/posts/my-first-post/</loc>
+    <lastmod>2019-06-03T20:04:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://paulpablito.github.io/posts/</loc>
+    <lastmod>2019-06-03T20:04:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://paulpablito.github.io/</loc>
+    <lastmod>2019-06-03T20:04:10+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://paulpablito.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
