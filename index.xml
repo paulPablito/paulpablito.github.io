@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scribbling Sloth</title>
-    <link>http://paulpablito.github.io/</link>
+    <link>https://scribblingsloth.blog/</link>
     <description>Recent content on Scribbling Sloth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jun 2019 20:04:10 +0200</lastBuildDate>
     
-	<atom:link href="http://paulpablito.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://scribblingsloth.blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://paulpablito.github.io/posts/my-first-post/</link>
+      <link>https://scribblingsloth.blog/posts/my-first-post/</link>
       <pubDate>Mon, 03 Jun 2019 20:04:10 +0200</pubDate>
       
-      <guid>http://paulpablito.github.io/posts/my-first-post/</guid>
+      <guid>https://scribblingsloth.blog/posts/my-first-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at tellus ligula. Fusce ornare nec nisl et laoreet. Duis euismod arcu commodo ipsum pellentesque dignissim. Duis imperdiet mauris ac lectus accumsan consequat. Fusce sed ex consequat, blandit est non, iaculis leo. Aliquam quis felis sollicitudin, consequat tortor vitae, efficitur justo. Nullam sit amet vulputate ipsum. Vestibulum vel mi metus. Phasellus feugiat ut libero id tempor. Donec ullamcorper quam at dolor commodo gravida.</description>
     </item>
     

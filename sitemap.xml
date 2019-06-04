@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://paulpablito.github.io/posts/my-first-post/</loc>
+    <loc>https://scribblingsloth.blog/posts/my-first-post/</loc>
     <lastmod>2019-06-03T20:04:10+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://paulpablito.github.io/posts/</loc>
-    <lastmod>2019-06-03T20:04:10+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://paulpablito.github.io/</loc>
+    <loc>https://scribblingsloth.blog/posts/</loc>
     <lastmod>2019-06-03T20:04:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://paulpablito.github.io/categories/</loc>
+    <loc>https://scribblingsloth.blog/</loc>
+    <lastmod>2019-06-03T20:04:10+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://paulpablito.github.io/tags/</loc>
+    <loc>https://scribblingsloth.blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://scribblingsloth.blog/tags/</loc>
     <priority>0</priority>
   </url>
   
