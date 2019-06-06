@@ -55,7 +55,6 @@ body {
 	color: #666;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
-	background-color: rgb(255, 243, 229);
 }
 
 h1 {
@@ -112,8 +111,8 @@ nav.main-nav {
 
 	/*max-width: 600px;*/
 	/*width:100%;*/
-	background: #f4e8d9;
-	/*background: rgba(255,255,255,.90);*/
+	background: #fff;
+	background: rgba(255,255,255,.90);
 	margin: 0 auto;
 	text-align: right;
 	/*position: fixed;*/
