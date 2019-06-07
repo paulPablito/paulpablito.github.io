@@ -78,7 +78,7 @@ h2 {
 }
 
 .profile #header {
-	padding-bottom: 40px;
+	padding-bottom: 72px;
 	text-align: center;
 	position: relative;
 }
@@ -102,7 +102,7 @@ h2 {
 	font-size: 20px;
 	  font-weight: 300;
 	  color: #aaa;
-	  margin-top: 10px;
+	  margin-top: 4px;
 	  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	  font-style: normal;
 
@@ -139,7 +139,7 @@ nav.main-nav a.cta {
 }
 
 #wrapper {
-  max-width: 800px;
+  max-width: 860px;
   margin: 0 auto;
   padding: 60px 40px 100px 40px;
 }
@@ -241,7 +241,7 @@ em, i { font-style: italic; }
 }
 
 .post h2.subtitle {
-	font: italic 19px/1.3em Georgia,serif;
+	font: 18px/1.3em Georgia,serif;
 	color: #bbb;
 }
 
@@ -400,7 +400,7 @@ Post List
 #post-list a {
 	color: #333;
 	display: block;
-	font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 22px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
 }
 
 #post-list .dates {
@@ -444,7 +444,11 @@ Post List
 
 /* Post Page */
 .post {
-	margin: 80px 0 0 0;
+	margin: 20px 0 0 0;
+}
+
+#post-body {
+	margin-top: 40px;
 }
 
 #post-meta {
@@ -452,10 +456,10 @@ Post List
 	font-weight: bold;
 	line-height: 1.4;
 	border-top: 1px solid #eee;
-	padding-top: 40px;
+	padding-top: 20px;
 	margin-bottom: 40px;
-	padding-bottom: 40px;
-	margin-top: 40px;
+	padding-bottom: 20px;
+	margin-top: 60px;
 	color:#444;
 	border-bottom: 1px solid #eee;
 }
@@ -626,7 +630,11 @@ h2.month {
 
 /* Media Queries */
 @media screen and (max-width: 540px) {
-	#wrapper { padding:20px 20px 20px 20px;}
+	#wrapper { padding: 20px 20px 20px 20px;}
+	.profile #header {
+		padding-bottom: 40px;
+	}
+
 	.post { margin: 40px 0; }
 
 	#post-list, #archive-list { margin-top: 0; }
