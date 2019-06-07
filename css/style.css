@@ -1,3 +1,9 @@
+/* 3 MAIN COLORS:
+brown: #481800
+green: #187800
+orange: #f07818
+*/
+
 /* Reset */
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
 *, *:before, *:after { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
@@ -51,8 +57,8 @@ margin-bottom: 20px;
 html, body { height: 100%; }
 
 body {
-	font:16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #666;
+	font:18px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #333;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 	background: #fff;
@@ -125,15 +131,15 @@ nav.main-nav a {
 	top: 8px;
 	right: 6px;
 	padding: 8px 12px;
-	color: #5badf0;
-	font-size: 13px;
+	color: #187800;
+	font-size: 14px;
 	/*font-weight: bold;*/
 	line-height: 1.35;
 	border-radius: 3px;
 
 }
 nav.main-nav a.cta {
-	background: #5badf0;
+	background: #187800;
 	color: #fff;
 	margin-left: 12px;
 }
@@ -162,14 +168,14 @@ nav.main-nav a.cta {
 a,
 #title,
 #post-list a:hover,
-#post-list li:hover .dates,
+#post-list li:hover,
 #title:hover {
 	text-decoration: none;
-	color: #5badf0;
-	color: #5694f1;
+	color: #187800;
+	color: #187800;
 }
 
-p a { color: #5694f1; }
+p a { color: #187800; }
 
 /*Transitions*/
 a,
@@ -427,9 +433,9 @@ Post List
 }
 
 #archive-link:hover {
-	background: #5694f1;
+	background: #187800;
 	color: #fff;
-	box-shadow: 0 0 0 1px #5694f1;
+	box-shadow: 0 0 0 1px #187800;
 }
 
 #archive-link span {
@@ -580,7 +586,7 @@ h2.month {
 }
 
 #archive-list li a:hover,#archive-list li:hover .dates {
-	color: #5694f1;
+	color: #187800;
 }
 
 #post-meta img.avatar {
@@ -601,7 +607,7 @@ h2.month {
 
 #post-list.archive.readmore a{
 	font: 400 16px/1.6 "Helvetica Neue",helvetica,Arial,sans-serif;
-	color: #5694f1;
+	color: #187800;
 }
 
 #post-list.archive.readmore a:hover{
