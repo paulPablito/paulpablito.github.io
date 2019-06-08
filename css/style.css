@@ -391,7 +391,7 @@ Post List
 	margin-bottom: 0;
 }
 
-#post-list li,#archive-list li, #writeme {
+#post-list li,#archive-list li {
 	border-top: 1px solid #eee;
 	padding-top: 20px;
 	padding-bottom: 20px;
@@ -476,9 +476,13 @@ Post List
 	display: block;
 }
 
-#post-meta div span.dark {
+#post-meta div span.readThanks {
 	color: #1E2025;
+	font-size: 16px;
+}
 
+#post-meta div span.readMessage {
+	color: #f07818;
 }
 
 #post-meta div {
