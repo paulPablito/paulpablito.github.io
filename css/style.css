@@ -391,7 +391,7 @@ Post List
 	margin-bottom: 0;
 }
 
-#post-list li,#archive-list li {
+#post-list li,#archive-list li, #writeme {
 	border-top: 1px solid #eee;
 	padding-top: 20px;
 	padding-bottom: 20px;
