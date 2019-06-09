@@ -54,6 +54,8 @@ margin-bottom: 20px;
 }
 
 /* Base */
+html { overflow-y: scroll; }
+
 html, body { height: 100%; }
 
 body {
